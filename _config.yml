@@ -29,6 +29,7 @@ people:
 - name: Alex Morley
   pic: 3
   position: Neuroscientist
+  text: I do science and software.
   social:
     - title: twitter
       url: https://twitter.com/alexmorley
